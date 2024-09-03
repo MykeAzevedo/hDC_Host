@@ -1,2 +1,2 @@
-# Projeto hDC Host
-hDC Host 
+# Projeto hDC Host 
+hDC Host - responsivo
